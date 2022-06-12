@@ -1,5 +1,5 @@
 # Workout Tracking
-Workout Tracking Using Google Sheets, nutritionix and python.
+Workout Tracking Using Google Sheets, nutritionix and python. This project made by following an udemy course. [Course Link](https://www.udemy.com/course/100-days-of-code/)
 
 <br>
 <br>
